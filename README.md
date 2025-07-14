@@ -4,6 +4,7 @@ A modular, task-driven Jupyter notebook demonstrating key stages of the machine 
 
 ---
 
+![GitHub](https://img.shields.io/github/last-commit/Mr-Seye/network-security-simulation?logo=github)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
